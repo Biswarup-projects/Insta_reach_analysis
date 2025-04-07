@@ -16,7 +16,6 @@ The goal of this notebook is to:
 ## 🚀 Highlights
 - Interactive bar charts and scatter plots using Plotly
 - Reach vs. content interaction metrics
-- Exported plots using `plotly.io.to_html()` for web display compatibility
 - Clean modular code for reuse and scalability
 
 ## 🌐 View Interactive Plots
